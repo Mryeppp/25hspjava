@@ -74,3 +74,7 @@ class Mobile extends Computer {
         return 200;
     }
 }
+
+class A {
+
+}

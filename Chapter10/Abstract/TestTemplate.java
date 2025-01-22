@@ -6,6 +6,7 @@ public class TestTemplate {
         aa.CalculateTime();
         BB bb = new BB();
         bb.CalculateTime();
+        
     }
 
     

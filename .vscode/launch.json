@@ -1,0 +1,266 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "AnonymousInnerClass",
+            "request": "launch",
+            "mainClass": "Chapter10.Innerclass.AnonymousInnerClass",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "MyConclusion_OF_InnerClass",
+            "request": "launch",
+            "mainClass": "Chapter10.Innerclass.MyConclusion_OF_InnerClass",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousInnerClass",
+            "request": "launch",
+            "mainClass": "Chapter10.Inerclass.AnonymousInnerClass",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Chapter10.Inerclass.Car",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "RUN_CAR_ENGINE",
+            "request": "launch",
+            "mainClass": "Chapter10.Inerclass.RUN_CAR_ENGINE",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TestTemplate",
+            "request": "launch",
+            "mainClass": "Chapter10.Abstract.TestTemplate",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "CodeBlock01",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.CodeBlock01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "CodeBlockDetail01",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.CodeBlockDetail01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "CodeBlockDetail02",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.CodeBlockDetail02",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "CodeBlockDetail03",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.CodeBlockDetail03",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "NormalCodeBlock",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.NormalCodeBlock",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "StaticCodeBlock01",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.StaticCodeBlock01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "StaticCodeBlock02",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.StaticCodeBlock02",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "StaticCodeBlock03",
+            "request": "launch",
+            "mainClass": "Chapter10.Block.StaticCodeBlock03",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass01",
+            "request": "launch",
+            "mainClass": "Chapter10.Inerclass.InnerClass01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "LocalInnerClass",
+            "request": "launch",
+            "mainClass": "Chapter10.Inerclass.LocalInnerClass",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "MyInnterClass01",
+            "request": "launch",
+            "mainClass": "Chapter10.Inerclass.MyInnterClass01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "EX_C",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.EX_C",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "ExtendsVSInterface",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.ExtendsVSInterface",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Interface01",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.Interface01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Interface02",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.Interface02",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "InterfacePolyArr",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.InterfacePolyArr",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "InterfacePolyParameter",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.InterfacePolyParameter",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "InterfacePolyPass",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.InterfacePolyPass",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "Chapter10.Main_.Main01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "ExerciseSingleTon01",
+            "request": "launch",
+            "mainClass": "Chapter10.SingleTon.ExerciseSingleTon01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "singleton",
+            "request": "launch",
+            "mainClass": "Chapter10.SingleTon.singleton",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "ChildGame",
+            "request": "launch",
+            "mainClass": "Chapter10.Static.ChildGame",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "VisitStatic",
+            "request": "launch",
+            "mainClass": "Chapter10.Static.VisitStatic",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Run_Acal_BSum",
+            "request": "launch",
+            "mainClass": "Chapter10.super_.Run_Acal_BSum",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Super01",
+            "request": "launch",
+            "mainClass": "Chapter10.super_.Super01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "superDetail",
+            "request": "launch",
+            "mainClass": "Chapter10.super_.superDetail",
+            "projectName": "hsp_debae6e3"
+        }
+    ]
+}

@@ -4,7 +4,56 @@
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "EnumerationExercise01",
+            "request": "launch",
+            "mainClass": "Chapter11.Enum.EnumerationExercise01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "Interface03",
+            "request": "launch",
+            "mainClass": "Chapter10.Interface.Interface03",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "type": "java",
+            "name": "Enumeration",
+            "request": "launch",
+            "mainClass": "Chapter11.Enum.Enumeration",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "Chapter11.Enum.run",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "OuterOther01",
+            "request": "launch",
+            "mainClass": "Chapter10.Innerclass.OuterOther01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "AnomynousInnerClassExercise",
+            "request": "launch",
+            "mainClass": "Chapter10.Innerclass.AnomynousInnerClassExercise",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass01",
+            "request": "launch",
+            "mainClass": "Chapter10.Innerclass.InnerClass01",
+            "projectName": "hsp_debae6e3"
+        },
         {
             "type": "java",
             "name": "AnonymousInnerClass",

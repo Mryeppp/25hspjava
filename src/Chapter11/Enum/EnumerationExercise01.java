@@ -9,7 +9,7 @@ public class EnumerationExercise01 {
 
     }
 }
-
+Enum
 enum Gender {
     // 易错点：不写构造器说明存在一个默认无参构造器
     BOY, GIRL;

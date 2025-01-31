@@ -1,23 +1,11 @@
+
+
 {
     // 使用 IntelliSense 了解相关属性。 
     // 悬停以查看现有属性的描述。
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        {
-            "type": "java",
-            "name": "NumberFormatException_",
-            "request": "launch",
-            "mainClass": "Chapter12.exception_.NumberFormatException_",
-            "projectName": "hsp_debae6e3"
-        },
-        {
-            "type": "java",
-            "name": "Homework07",
-            "request": "launch",
-            "mainClass": "Chapter11.Homework.Homework07",
-            "projectName": "hsp_debae6e3"
-        },
         {
             "type": "java",
             "name": "Homework06",

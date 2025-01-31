@@ -1,6 +1,6 @@
 package Chapter12.exception_;
 
-import com.hspedu.throws_.ThrowException;
+import Chapter12.throws_.ThrowException;
 
 public class Exception01 {
     public static void main(String[] args) {

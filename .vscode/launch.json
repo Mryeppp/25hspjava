@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exception01",
+            "request": "launch",
+            "mainClass": "Chapter12.exception_.Exception01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
             "name": "NumberFormatException_",
             "request": "launch",
             "mainClass": "Chapter12.exception_.NumberFormatException_",

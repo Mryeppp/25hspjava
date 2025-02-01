@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Homework01",
+            "request": "launch",
+            "mainClass": "Chapter12.homework.Homework01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
+            "name": "test01",
+            "request": "launch",
+            "mainClass": "Chapter12.homework.test01",
+            "projectName": "hsp_debae6e3"
+        },
+        {
+            "type": "java",
             "name": "Exception01",
             "request": "launch",
             "mainClass": "Chapter12.exception_.Exception01",

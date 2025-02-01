@@ -19,14 +19,3 @@ public class Interface03 {
     // }
 
 }
-
-class A {
-    public void t() {
-        System.out.println("A");
-    }
-
-}
-
-class b {
-
-}
